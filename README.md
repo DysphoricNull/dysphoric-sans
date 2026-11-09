@@ -9,6 +9,7 @@ Feel free to give feedback and suggestions so I can know if it needs any improve
 
 ## Changelog
 v2.0: Added almost the entirety of Latin Extended-G, including some glyphs in Latin Extended-D, E, and F.
+
 v1.0: The very first version of the font.
 
 ## License
